@@ -1,6 +1,18 @@
-# 🏡 House Price Prediction App
-# Live Demo
-## https://house-price-predictor-2-inji.onrender.com
+# END-TO-END-DATA-SCIENCE-PROJECT
+
+*COMPANY*: CODTECH IT SOLUTIONS
+
+*NAME*: JAYESH MODHVADIYA
+
+*INTERN ID*: CT4MDA791
+
+*DOMAIN*: DATA SCIENCE
+
+*DURATION*: 4 MONTHS
+
+*MENTOR*: NEELA SANTOSH
+
+# Live Demo: https://house-price-predictor-2-inji.onrender.com
 
 This is a simple end-to-end data science project that predicts house prices based on features like number of rooms, garage cars, and living area.
 
