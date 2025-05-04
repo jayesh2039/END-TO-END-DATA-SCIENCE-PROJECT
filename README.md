@@ -54,6 +54,6 @@ We used a basic CSV file train.csv containing house features and prices. You can
 - Frontend + backend combined
 - Simple UI to test predictions
 
-
+# Output:
 
 ![Output_Screenshot](https://github.com/user-attachments/assets/7533a9ec-ce8d-44ff-a992-e15bf3820ee7)
